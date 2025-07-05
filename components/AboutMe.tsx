@@ -64,7 +64,7 @@ export default function AboutMe() {
             className="flex-1 text-primary/50 space-y-5 text-center md:text-left"
           >
             <p className="text-xl leading-relaxed">
-              I'm <span className="font-bold text-primary">Tushar More</span>, a web developer & UI/UX designer from India.
+              I&apos;m <span className="font-bold text-primary">Tushar More</span>, a web developer & UI/UX designer from India.
               With a strong command of <span className="text-primary font-semibold">Next.js</span>,{" "}
               <span className="text-primary font-semibold">Tailwind CSS</span>, and{" "}
               <span className="text-primary font-semibold">TypeScript</span>, I craft digital experiences that look amazing and perform even better.

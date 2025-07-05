@@ -115,7 +115,7 @@ const Navbar = () => {
         <Button className="cursor-pointer lg:text-sm text-[12px]"
           onClick={() => window.open("https://www.linkedin.com/in/tushar-more-987a69258/", "_blank")}
         >
-          Let's talk!
+          Let&apos;s talk!
         </Button>
       </ul>
 
